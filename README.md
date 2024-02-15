@@ -2,6 +2,8 @@
 
 Built and trained three deep learning models with different architectures and parameters. The training dataset contains 87,000 images which are 200 x 200 RGB pixels. Developed a full-stack website that offers real-time ASL gesture recognition, dynamically displays the recognized signs as text, and integrates a Text-to-Speech API to verbalize the text.
 
+The dataset for training was taken from https://www.kaggle.com/datasets/grassknoted/asl-alphabet.
+
 |      File Name       | Description                                                  |
 | :------------------: | ------------------------------------------------------------ |
 | **Train_models.py**  | Train different models with different parameters.            |
